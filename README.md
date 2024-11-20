@@ -10,7 +10,7 @@ sudo apt-get install -y docker-ce docker-ce-cli containerd.io
 docker --version
 sudo docker run hello-world
 
-
+Sudo apt-get install docker
 
 
 mkdir fapp2
